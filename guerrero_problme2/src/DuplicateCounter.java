@@ -152,36 +152,3 @@ public class DuplicateCounter {
 				    
 		}
 }
-//	/			 else
-//    {
-//	 System.out.println("");
-//		System.out.println("file exists");
-//        PrintWriter printOut = new PrintWriter(new File(outputFile));
-//		
-//		// iterate in the unique words 
-//		for(String newstring : wordCounter.keySet())
-//		{
-//			printOut.print(newstring + " "+wordCounter.get(newstring));
-//		}
-//		// iterator for looping and printing of the unique words
-////		Iterator<String> p = (Iterator<String>) wordCounter.keySet();
-////		while(p.hasNext())
-////		{
-////		System.out.print(p.next()+" ");
-////		
-////		}
-//		
-//		// flushes and closes the PrintWrite
-//		printOut.flush();
-//		printOut.close();
-//    }
-		
-		
-
-
-
-		
-					
-		
-
-
