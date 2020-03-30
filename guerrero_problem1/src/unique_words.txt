@@ -1,0 +1,10 @@
+can 
+help 
+world 
+name 
+me 
+is 
+hello 
+my 
+roller 
+word 
